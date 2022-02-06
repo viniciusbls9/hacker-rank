@@ -4,7 +4,7 @@
 
 ## :bulb: Repository Idea
 
-The idea of the repository is to solve [HackerRank](hackerrank.com/). platform logic and data structures problems. The problems are divider for difficulty levels, and each problem have a explication and examples of the input and output data.
+The idea of the repository is to solve [HackerRank](hackerrank.com/). platform logic and data structures problems. The problems are divider for difficulty levels, and each problem has a explanation and examples of the input and output data.
 
 ## :face_exhaling: Problems solved
 
