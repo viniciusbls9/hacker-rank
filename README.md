@@ -28,6 +28,17 @@ The idea of the repository is to solve [HackerRank](https://hackerrank.com/). pl
 
 - The platform provides an array of integers. We need to calculate the elements that are negative, positive and zero and return the decimal value of each fraction in a new line with n values.
 
+:white_check_mark: Stair Case
+
+- This challange provides an integers and we need to build a staircase of hashtags, like to example:
+
+```bash
+   #
+  ##
+ ###
+####
+```
+
 ## :hammer_and_wrench: Tech
 
 - Javascript
