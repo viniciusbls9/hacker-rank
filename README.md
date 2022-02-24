@@ -39,6 +39,34 @@ The idea of the repository is to solve [HackerRank](https://hackerrank.com/). pl
 ####
 ```
 
+:white_check_mark: Stair Case
+
+- We have five positive integers and we have to find minimum and maximum that can be calculated by summing exactly four of the five integers
+
+### Example
+
+arr = [1, 2, 3, 4, 5]
+
+The minimum sum is 1 + 2 + 3 + 4 = 16 and the maximum sum is 2 + 3 + 4 + 5 + 6 = 24. The function prints:
+
+```bash
+16 24
+```
+
+:white_check_mark: Stair Case
+
+- we received a integers array and we need to count how many numbers repeat
+
+### Example
+
+candles = [4, 4, 1, 3]
+
+The maximum height candles are 4 units high. There are 2 of them, so return 2.
+
+```bash
+2
+```
+
 ## :hammer_and_wrench: Tech
 
 - Javascript
