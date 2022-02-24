@@ -12,13 +12,45 @@ The idea of the repository is to solve [HackerRank](https://hackerrank.com/). pl
 
 - The idea of the problem is simple, just add two numbers.
 
+### Example
+
+#### Input <br>
+
+a = 7 <br>
+b = 3
+
+#### Output <br>
+
+```bash
+10
+```
+
 :white_check_mark: Simple Array Sum
 
 - This problem idea is get array values and sum your elements.
 
+### Example
+
+arr = [1, 2, 3]
+
+1 + 2 + 3
+
+```bash
+6
+```
+
 :white_check_mark: Compare the Triplets
 
 - This problem is a little more "complex", we need to compare the points of alice and bob, and whoever has the highest score wins. After checking we return the score of each
+
+### Example
+
+a = [1, 2, 3]
+b = [3, 2, 1]
+For elements _0_, Bob is awarded a point because a[0] .
+For the equal elements a[1] and b[1], no points are earned.
+Finally, for elements 2, a[2] > b[2] so Alice receives a point.
+The return array is [1, 1] with Alice's score first and Bob's second.
 
 :white_check_mark: A Very Big Sum
 
