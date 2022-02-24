@@ -33,13 +33,12 @@ b = 3
 
 #### Input <br>
 
-6 <br>
-1 2 3 4 10 11
+[1, 2, 3, 4, 10, 11]
 
 #### Output <br>
 
 ```bash
-6
+31
 ```
 
 :white_check_mark: Compare the Triplets
@@ -48,12 +47,16 @@ b = 3
 
 ### Example
 
-a = [1, 2, 3]
-b = [3, 2, 1]
-For elements _0_, Bob is awarded a point because a[0] .
-For the equal elements a[1] and b[1], no points are earned.
-Finally, for elements 2, a[2] > b[2] so Alice receives a point.
-The return array is [1, 1] with Alice's score first and Bob's second.
+#### Input <br>
+
+a = [1, 2, 3] <br>
+b = [3, 2, 1] <br>
+
+#### Output
+
+```bash
+1 1
+```
 
 :white_check_mark: A Very Big Sum
 
