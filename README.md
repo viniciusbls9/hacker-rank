@@ -31,9 +31,12 @@ b = 3
 
 ### Example
 
-arr = [1, 2, 3]
+#### Input <br>
 
-1 + 2 + 3
+6 <br>
+1 2 3 4 10 11
+
+#### Output <br>
 
 ```bash
 6
