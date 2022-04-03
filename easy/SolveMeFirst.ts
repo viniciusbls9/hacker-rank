@@ -1,4 +1,4 @@
-function solveMeFirst(a, b) {
+function solveMeFirst(a: number, b: number) {
     return a + b
 }
 
